@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/images/scrumhelper-png.png" alt="Scrum Helper logo" width="200">
+  <img src="assets/scrum-helper-logo-light.png" alt="Scrum Helper logo" width="200">
 </p>
 
 <h1 align="center">Scrum Helper</h1>
