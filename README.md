@@ -1,4 +1,8 @@
-# Scrum Helper
+<p align="center">
+  <img src="docs/images/scrumhelper-png.png" alt="Scrum Helper logo" width="200">
+</p>
+
+<h1 align="center">Scrum Helper</h1>
 
 > **Fork status:** Fork of [fossasia/scrum_helper](https://github.com/fossasia/scrum_helper). The existing project guide follows.
 
@@ -16,7 +20,6 @@ The guide, project branding, and legal notices from the fork base remain below.
 
 **Scrum Helper** is a Chrome extension that simplifies writing development reports by auto-filling content based on your Git activity. Just enter your GitHub username, select a date range, and choose your preferences, the extension automatically fetches your commits, pull requests, issues, and code reviews via the GitHub API and generates a pre-filled report that you can edit as needed. While currently focused on Git-based workflows, Scrum Helper is designed to expand to other platforms in the future.
 
-![SCRUMLOGO](docs/images/scrumhelper-png.png)
 
 ## Features
 
